@@ -1,0 +1,1 @@
+Pengenalan perintah-perintah yang ada di GIT(membuat folder, berpindah direktori, dst). Pengenalan CLI(membuat file dengan tulisan). Pengenalan scripting
