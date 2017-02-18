@@ -1,0 +1,18 @@
+w01-170213-12-PS-About: Doing Task Week01
+w01-170213-13-PS-About: Doing Task Week01
+w01-170213-13-PS-About: Doing Task Week01
+w01-170213-14-PS-About: Doing Task Week01
+w01-170213-14-PS-About: Doing Task Week01
+w01-170214-10-LR-About: Chapter 1 HKI, From: Lecturer
+w01-170214-10-LR-About: Chapter 1 HKI, From: Lecturer
+w01-170214-11-LR-About: Chapter 2 Scripting, From: Lecturer
+w01-170214-11-LR-About: Chapter 2 Scripting, From: Lecturer
+w01-170216-10-LR-About: Chapter 2 Scripting, From: Lecturer
+w01-170216-10-LR-About: Chapter 2 Scripting, From: Lecturer
+w01-170216-11-LR-About: Chapter 2 Scripting, From: Lecturer
+w01-170216-11-LR-About: Chapter 2 Scripting, From: Lecturer
+w01-170218-08-DS-About: Discuss Scripting
+w01-170218-08-PS-About: Scripting Learning
+w01-170218-09-PS-About: Scripting Learning
+w01-170218-09-PS-About: Doing Special Task
+
