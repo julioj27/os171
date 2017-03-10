@@ -1,0 +1,16 @@
+w04-170306-12-PS-About: Doing Task Week04
+w04-170306-13-PS-About: Doing Task Week04
+w04-170306-13-PS-About: Doing Task Week04
+w04-170306-14-PS-About: Doing Task Week04
+w04-170306-14-PS-About: Doing Task Week04
+w04-170307-10-LR-About: Addressing, Pointer, From: Lecturer
+w04-170307-10-LR-About: Addressing, Pointer, From: Lecturer
+w04-170307-11-LR-About: Addressing, Pointer, From: Lecturer
+w04-170307-11-LR-About: Addressing, Pointer, From: Lecturer
+w04-170309-10-LR-About: Addressing, Pointer, From: Lecturer
+w04-170309-10-LR-About: Addressing, Pointer, From: Lecturer
+w04-170309-11-LR-About: Addressing, Pointer, From: Lecturer
+w04-170309-11-LR-About: Addressing, Pointer, From: Lecturer
+w04-170310-18-LR-About: Learn Open-Close Program
+w04-170310-18-LR-About: Learn write.c program
+w04-170310-19-LR-About: Doing Task Week04
