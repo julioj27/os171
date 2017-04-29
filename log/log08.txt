@@ -1,0 +1,12 @@
+w08-170425-10-LR-About: Scheduling(Basic Concepts, Utilization-throuhput-(turnaround,waiting,response) time, Burst Algorithm) and 183.pdf, From: Lecturer
+w08-170425-10-LR-About: Scheduling(Basic Concepts, Utilization-throuhput-(turnaround,waiting,response) time, Burst Algorithm) and 183.pdf, From: Lecturer
+w08-170425-11-LR-About: Scheduling(Thread,MultiCore,Soft/Hard Real Time), From: Lecturer
+w08-170425-11-LR-About: Scheduling(Thread,MultiCore,Soft/Hard Real Time), From: Lecturer
+w08-170425-15-PS-About: Do Task Week08 
+w08-170425-15-PS-About: Do Task Week08
+w08-170427-10-LR-About: Scheduling(Thread,MultiCore,Soft/Hard Real Time) , From: Lecturer 
+w08-170427-10-LR-About: File System and Persistent Storage, From: Lecturer
+w08-170427-11-LR-About: File System and Persistent Storage, From: Lecturer
+w08-170427-11-LR-About: File System and Persistent Storage, From: Lecturer
+w08-170427-15-PS-About: Repeat Do Task Week08(First try wrong exit terminal) 
+w08-170427-15-PS-About: Repeat Do Task Week08
